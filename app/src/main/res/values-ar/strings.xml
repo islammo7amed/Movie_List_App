@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق قائمة الأفلام</string>
+
+    <string name="main_alert_dialog_title">خطأ بالإنترنت</string>
+    <string name="main_alert_dialog_message">يرجى التحقق من اتصالك بالإنترنت</string>
+    <string name="main_alert_dialog_button_text">حسناً</string>
+
+    <string name="search_hint">البحث عن الأفلام</string>
+    <string name="search_title">بحث</string>
+
+    <string name="image_error_text">Unable to load photo</string>
+</resources>
